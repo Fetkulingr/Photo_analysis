@@ -1,3 +1,11 @@
+'''
+This module make
+
+Athor: Fetkulin Grigory, Fetkulin.G.R@yandex.ru
+Starting 2022/10/10
+Ending 2024//
+
+'''
 import cv2
 # Инициализация распознаватель лиц 
 face_cascade_db = cv2.CascadeClassifier(cv2.data.haarcascades + "haarcascade_frontalface_default.xml")
